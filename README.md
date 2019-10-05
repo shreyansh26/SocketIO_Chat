@@ -1,7 +1,7 @@
-ocket.IO Chat
+Socket.IO Chat
 ==============
 
-A simple live Webchat service made using Socket.IO.
+A simple live Webchat service made using [Socket.IO](https://socket.io/).
 
 Dependencies
 ------------
